@@ -1,1 +1,1 @@
-web: gunicorn mal-scraper.wsgi
+web: gunicorn MAL.wsgi
